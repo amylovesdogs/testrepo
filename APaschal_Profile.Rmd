@@ -1,0 +1,8 @@
+---
+title: "Live Session Unit 03 Prework"
+author: "Amy Paschal"
+date: "1/24/2018"
+output: html_document
+---
+
+![Data Science Profile](/Users/amypaschal/Documents/SMU/Term 1/Doing Data Science/Unit 3/Pre-work/Profile-Graph.png)
